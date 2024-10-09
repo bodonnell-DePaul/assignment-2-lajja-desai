@@ -1,0 +1,8 @@
+.todoform {
+    padding: 15px;
+    background-color: rgb(97, 214, 97);
+}
+
+.todoform .btn {
+    width : 100%;
+}
